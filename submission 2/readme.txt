@@ -17,3 +17,7 @@ Group Number:
 Group Members:
 19201086 Md. Farhadul Islam
 19241004 Sarah Zabeen
+
+Extra ipynb file:
+Running our model on a kaggle dataset (ECG Classification)
+Dataset: https://www.kaggle.com/marcjuniornkengue/ecg-image-cropped/version/4 
