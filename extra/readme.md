@@ -12,4 +12,8 @@
 - [Course Certificate List](https://github.com/farhad324/My-eCertificates)
 - [Brain MRI Tumor Detection using CNN](https://github.com/farhad324/Brain-MRI-Tumor-Classification-Using-CNN)
 - [CSE221:Algorithms (Python Codes)](https://github.com/farhad324/Algorithms-CSE221) 
+- [Unlisted Playlist for CSE424](https://youtube.com/playlist?list=PLojmVbOs39UPBUIDMAD-JVEvYRx69MAxj)
 
+# Group Information:
+- 19201086 Md. Farhadul Islam
+- 19241004 Sarah Zabeen
