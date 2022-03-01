@@ -15,5 +15,5 @@
 - [Unlisted Playlist for CSE424](https://youtube.com/playlist?list=PLojmVbOs39UPBUIDMAD-JVEvYRx69MAxj)
 
 # Group Information:
-- 19201086 Md. Farhadul Islam
-- 19241004 Sarah Zabeen
+- [19201086 Md. Farhadul Islam](https://github.com/farhad324) 
+- [19241004 Sarah Zabeen](https://github.com/SarahZabeen)
