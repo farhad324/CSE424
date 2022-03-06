@@ -8,13 +8,13 @@ Native/original format:
 
 
 Name, Author, Edition, year and publisher of the Book:
-
+Neural Networks from Scratch in Python, Harrison Kinsley & Daniel Kukieła, Harrison Kinsley, 2020. 
 
 Link to the book:
-
+https://drive.google.com/file/d/1xjbKZ8A00yHAMTNlviwnghNVBRqlMiOd/view?usp=sharing 
 
 Link to the book chapter:
-
+https://drive.google.com/file/d/1xjbKZ8A00yHAMTNlviwnghNVBRqlMiOd/view?usp=sharing
 
 Group Number:
 5
