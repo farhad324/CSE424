@@ -5,7 +5,7 @@ Two public link to the Concept Map (anyone on the internet can view without logi
 PDF: 
 
 Native/original format: 
-
+https://drive.google.com/file/d/1qNPdYmpPDDG8I2Qf6rxwCV90QJKvHq0c/view?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
 Neural Networks from Scratch in Python, Harrison Kinsley & Daniel Kukieła, Harrison Kinsley, 2020. 
