@@ -24,3 +24,8 @@ Group Number:
 Group Members:
 19201086 Md. Farhadul Islam
 19241004 Sarah Zabeen
+
+Extra ipynb file:
+- Hands on implementation of Dropout using Tensorflow/Keras.
+- Showing the effect of Dropout.
+- Experimented on MNIST hand digit recognition data.  
