@@ -8,6 +8,7 @@
 - [Levenshtein Distance (Theory Tutorial)](https://youtu.be/x0TRRg3Kn38) ***Group Work***
 - [ECG Classification using CNN (test run)](https://github.com/farhad324/CSE424/blob/main/submission%202/ecg_classification_test_run_extra.ipynb) ***Group Work***
 - [Dropout Analysis on MNIST using Keras](https://github.com/farhad324/CSE424/blob/main/submission%203/Dropout%20Analysis%20on%20MNIST%20using%20Keras.ipynb) ***Group Work***
+- [CSE474-Lecture-Monte-Carlo-Simulations](https://www.youtube.com/watch?v=sKO0243i6-Y&t=2s) *Got invited to take a lecture in absence of the course instructor*
 
 # Others
 - [Course Certificate List](https://github.com/farhad324/My-eCertificates)
