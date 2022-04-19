@@ -11,7 +11,7 @@
 - [CSE474-Lecture-Monte-Carlo-Simulations](https://www.youtube.com/watch?v=sKO0243i6-Y&t=2s) ***Got invited to take a lecture in absence of the course instructor***
 
 # Others
-- [Course Certificate List](https://github.com/farhad324/My-eCertificates)
+- [Online Course Certificate List](https://github.com/farhad324/My-eCertificates)
 - [Brain MRI Tumor Detection using CNN](https://github.com/farhad324/Brain-MRI-Tumor-Classification-Using-CNN)
 - [CSE221: Algorithms (Python Codes)](https://github.com/farhad324/Algorithms-CSE221) 
 - [Unlisted Playlist for CSE424](https://youtube.com/playlist?list=PLojmVbOs39UPBUIDMAD-JVEvYRx69MAxj)
