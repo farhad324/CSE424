@@ -8,7 +8,7 @@
 - [ECG Classification using CNN (test run)](https://github.com/farhad324/CSE424/blob/main/submission%202/ecg_classification_test_run_extra.ipynb) ***Group Work***
 - [Dropout Analysis on MNIST using Keras](https://github.com/farhad324/CSE424/blob/main/submission%203/Dropout%20Analysis%20on%20MNIST%20using%20Keras.ipynb) ***Group Work***
 - [CSE474-Lecture-Monte-Carlo-Simulations](https://www.youtube.com/watch?v=sKO0243i6-Y&t=2s) ***Got invited to take a lecture in absence of the course instructor***
-- [Online Course Certificate List](https://github.com/farhad324/My-eCertificates) ***Includes one Professional Certificate and one Specialization (of Coursera), Machine Learning Fundamentals with Python Track (of DataCamp)***
+- [Online Course Certificate List](https://github.com/farhad324/My-eCertificates) ***Includes one Professional Certificate and one Specialization (of Coursera), Machine Learning Fundamentals with Python Track (of DataCamp), 50+ course certificates in total***
 
 # Others - Python Implementations, Helpful for Beginners
 - [Brain MRI Tumor Detection using CNN](https://github.com/farhad324/Brain-MRI-Tumor-Classification-Using-CNN)
