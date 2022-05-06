@@ -5,8 +5,8 @@
 - [DataCamp Projects 1](https://github.com/farhad324/DataCamp-Projects)
 - [DataCamp Projects 2](https://github.com/farhad324/S-P-Case-Study-Datacamp-Introduction-to-Python-for-Finance)
 - [Levenshtein Distance (Theory Tutorial)](https://youtu.be/x0TRRg3Kn38) ***Group Work***
-- [ECG Classification using CNN (test run)](https://github.com/farhad324/CSE424/blob/main/submission%202/ecg_classification_test_run_extra.ipynb) ***Group Work***
-- [Dropout Analysis on MNIST using Keras](https://github.com/farhad324/CSE424/blob/main/submission%203/Dropout%20Analysis%20on%20MNIST%20using%20Keras.ipynb) ***Group Work***
+- [ECG Classification using CNN (test run)](https://github.com/farhad324/CSE424/blob/main/submission%202/ecg_classification_test_run_extra.ipynb) ***Extension of Submission 2***
+- [Dropout Analysis on MNIST using Keras](https://github.com/farhad324/CSE424/blob/main/submission%203/Dropout%20Analysis%20on%20MNIST%20using%20Keras.ipynb) ***Extension of Submission 3***
 - [CSE474-Lecture-Monte-Carlo-Simulations](https://www.youtube.com/watch?v=sKO0243i6-Y&t=2s) ***Got invited to take a lecture in absence of the course instructor***
 - [Online Course Certificate List](https://github.com/farhad324/My-eCertificates) ***Includes one Professional Certificate and one Specialization (of Coursera), Machine Learning Fundamentals with Python Track (of DataCamp), 50+ course certificates in total***
 - [Covid-19 Detection from Chest Radiographs using Vision Transformer - Conference Paper](https://github.com/farhad324/CSE424/tree/main/submission%205) ***Submission 5 - Group Work*** (Will be submitted by 10th May)
