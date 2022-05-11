@@ -1,4 +1,4 @@
-WILL BE SUBMITTED IN A CONFERENCE BY 10th MAY
+WILL BE SUBMITTED IN A CONFERENCE BY 14th MAY
 
 Unlisted youtube video:
 
@@ -6,7 +6,7 @@ Unlisted youtube video:
 Conference submitted paper / paper submission / login Link:
 
 
-Paper title: Covid-19 Detection from Chest Radiographs using Vision Transformer
+Paper title: Interpretable Covid-19 Detection from Chest Radiographs using Vision Transformer
 
 Paper presentation (anyone can view without login):
 
@@ -16,10 +16,10 @@ Paper submission date (to workshop/conference):
 
 Paper submission ID: 
 
-Conference Name: The 10th Pacific-Rim Symposium on Image and Video Technology
+Conference Name: The 29th International Conference on Neural Information Processing (ICONIP 2022)
 
 
-Conference URL: http://www.psivt.org/psivt2022/dates.html  
+Conference URL: https://iconip2022.apnns.org/index.php 
 
 
 Group Number:
