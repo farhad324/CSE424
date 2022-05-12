@@ -10,7 +10,7 @@
 - [CSE474-Lecture-Monte-Carlo-Simulations](https://www.youtube.com/watch?v=sKO0243i6-Y&t=2s) ***Got invited to take a lecture in absence of the course instructor***
 - [Online Course Certificate List](https://github.com/farhad324/My-eCertificates) ***Includes one Professional Certificate and one Specialization (of Coursera), Machine Learning Fundamentals with Python Track (of DataCamp), 50+ course certificates in total***
 - [Covid-19 Detection from Chest Radiographs using Vision Transformer - Conference Paper](https://github.com/farhad324/CSE424/tree/main/submission%205) ***Submission 5 - Group Work*** (Will be submitted by 14th May)
-- [InceptionV3-ResNet50-VGG16-VGG19 Tensorflow/Keras Implementations](https://github.com/farhad324/Popular-Deep-Learning-Methods/blob/main/InceptionV3-ResNet50-VGG16-VGG19%20(Weights%3DNone).ipynb)
+- [Popular Deep Learning Methods Tensorflow/Keras Implementations](https://github.com/farhad324/Popular-Deep-Learning-Methods) ***Tested on EyeTrack-ASD Classification Dataset - Useful for Model Comparisons***
 
 # Others - Python Implementations, Helpful for Beginners
 - [Brain MRI Tumor Detection using CNN](https://github.com/farhad324/Brain-MRI-Tumor-Classification-Using-CNN)
