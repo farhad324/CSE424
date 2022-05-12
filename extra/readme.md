@@ -9,7 +9,8 @@
 - [Dropout Analysis on MNIST using Keras](https://github.com/farhad324/CSE424/blob/main/submission%203/Dropout%20Analysis%20on%20MNIST%20using%20Keras.ipynb) ***Extension of Submission 3***
 - [CSE474-Lecture-Monte-Carlo-Simulations](https://www.youtube.com/watch?v=sKO0243i6-Y&t=2s) ***Got invited to take a lecture in absence of the course instructor***
 - [Online Course Certificate List](https://github.com/farhad324/My-eCertificates) ***Includes one Professional Certificate and one Specialization (of Coursera), Machine Learning Fundamentals with Python Track (of DataCamp), 50+ course certificates in total***
-- [Covid-19 Detection from Chest Radiographs using Vision Transformer - Conference Paper](https://github.com/farhad324/CSE424/tree/main/submission%205) ***Submission 5 - Group Work*** (Will be submitted by 10th May)
+- [Covid-19 Detection from Chest Radiographs using Vision Transformer - Conference Paper](https://github.com/farhad324/CSE424/tree/main/submission%205) ***Submission 5 - Group Work*** (Will be submitted by 14th May)
+- [InceptionV3-ResNet50-VGG16-VGG19 Tensorflow/Keras Implementations](https://github.com/farhad324/Popular-Deep-Learning-Methods/blob/main/InceptionV3-ResNet50-VGG16-VGG19%20(Weights%3DNone).ipynb)
 
 # Others - Python Implementations, Helpful for Beginners
 - [Brain MRI Tumor Detection using CNN](https://github.com/farhad324/Brain-MRI-Tumor-Classification-Using-CNN)
