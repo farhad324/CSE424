@@ -1,9 +1,7 @@
-WILL BE SUBMITTED IN A CONFERENCE BY 14th MAY
-
 Unlisted youtube video:
 
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link: https://easychair.org/conferences/?conf=iconip2022
 
 
 Paper title: Interpretable Covid-19 Detection from Chest Radiographs using Vision Transformer
@@ -12,9 +10,9 @@ Paper presentation (anyone can view without login):
 
 
 Paper submission date (to workshop/conference):
+13 May 2022
 
-
-Paper submission ID: 
+Paper submission ID: 14
 
 Conference Name: The 29th International Conference on Neural Information Processing (ICONIP 2022)
 
